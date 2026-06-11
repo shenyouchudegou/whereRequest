@@ -1,5 +1,5 @@
 import argparse
-from whereRequest import whereRequest
+from src.whereRequest import whereRequest
 
 parser = argparse.ArgumentParser()
 group = parser.add_mutually_exclusive_group(required=True)

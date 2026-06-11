@@ -1,0 +1,19 @@
+[project]
+name = "whereRequest"
+version = "0.0.1"
+authors = [
+  { name="laobwait", email="laobwait@136.com" },
+]
+description = "You can freely set the export IP for the request or use a proxy server to make the request."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
